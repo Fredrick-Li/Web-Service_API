@@ -11,4 +11,4 @@
         3. select breed by ID: <localhost:8080/{id}/breed>
         4. select all dog names: <localhost:8080/dog/name>
         
-*Location component is commented*
+*Note: Location component is commented*
